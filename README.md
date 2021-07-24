@@ -1,5 +1,5 @@
 #天空
-<!DOCTYPE html>
+<!SKY html>
 <html>
 <head>
 	<title>貪吃蛇</title>
